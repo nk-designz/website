@@ -1,0 +1,13 @@
+[submodule "themes/sam"]
+	path = themes/sam
+	url = https://github.com/victoriadrake/hugo-theme-sam.git
+[submodule "themes/introduction"]
+	path = themes/introduction
+	url = https://github.com/victoriadrake/hugo-theme-introduction.git
+[submodule "public"]
+	path = public
+	url = git@github.com:nk-designz/website.git
+	branch = master
+[submodule "themes/hugo-theme-codex"]
+	path = themes/hugo-theme-codex
+	url = https://github.com/jakewies/hugo-theme-codex.git
