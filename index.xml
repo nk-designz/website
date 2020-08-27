@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>nk-designz</title>
+    <link>https://nk-desig.nz/</link>
+    <description>Recent content on nk-designz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© {year}</copyright>
+    
+	<atom:link href="https://nk-desig.nz/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Page</title>
+      <link>https://nk-desig.nz/page/</link>
+      <pubDate>Thu, 27 Aug 2020 08:26:04 +0200</pubDate>
+      
+      <guid>https://nk-desig.nz/page/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
